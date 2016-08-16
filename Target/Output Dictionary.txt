@@ -1,0 +1,2 @@
+'1' for unsatisfied customers 
+'0' for satisfied customers
